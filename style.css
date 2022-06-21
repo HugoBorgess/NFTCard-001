@@ -50,8 +50,6 @@ body {
     cursor: pointer;
     
 }
-.card__imagem-transicao {
-}
 
 .imagem-transicao:hover {
     opacity: 1;
